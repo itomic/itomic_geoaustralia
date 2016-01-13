@@ -1,0 +1,10 @@
+name = Itomic Geoencode Australia
+description = Geocoding for AUS FFS
+core = 7.x
+package = CMY
+version = 7.x-1.0
+project = itomic_geoaustralia
+dependencies[] = addressfield
+dependencies[] = geocoder
+dependencies[] = geofield
+dependencies[] = ctools
